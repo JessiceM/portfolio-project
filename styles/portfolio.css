@@ -148,10 +148,18 @@ footer .social-links a:hover {
   .content {
     text-align: center;
     padding: 0;
+    margin: 10px 30px;
   }
+  .content-container {
+    padding: 0 20px;
+  }
+
   .project-description {
     padding: 0;
     text-align: center;
+  }
+  nav {
+    padding: 10px 0;
   }
   nav a {
     font-size: 14px;
