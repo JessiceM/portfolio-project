@@ -141,7 +141,9 @@ footer .social-links a:hover {
   h3 {
     font-size: 26px;
   }
-
+  .work-title {
+    font-size: 30px;
+  }
   .content {
     text-align: center;
     padding: 0;
