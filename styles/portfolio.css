@@ -45,6 +45,9 @@
 .content {
   margin: 30px;
 }
+.content-work {
+  margin: 30px;
+}
 .btn-branding {
   background: var(--branding--color);
   border-radius: 4px;
@@ -146,6 +149,10 @@ footer .social-links a:hover {
     line-height: 40px;
   }
   .content {
+    text-align: center;
+    padding: 0;
+  }
+  .content-work {
     text-align: center;
     padding: 0;
     margin: 10px 30px;
